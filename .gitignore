@@ -1,0 +1,14 @@
+processed/
+__pycache__/
+*.pyc
+*.pyo
+*.pt
+*.pth
+esm3/
+data/weights/
+*_dssp/
+*_hmm/
+*_pssm/
+.DS_Store
+*.log
+.ipynb_checkpoints/
